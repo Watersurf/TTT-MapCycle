@@ -21,7 +21,6 @@ Current Maps on rotation:
 -ttt_slender_v2
 -ttt_aircraft_v1b
 -ttt_bb_schooldayv3_r3
--ttt_community_bowling_v5a
 -ttt_island_christmasnight
 -ttt_magma
 -ttt_orange_v7
