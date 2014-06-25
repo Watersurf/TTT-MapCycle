@@ -27,8 +27,6 @@ Current Maps on rotation:
 -ttt_iceresearch_rc4
 -ttt_titanic
 -ttt_scarisland_b1
--ttt_mc_skyislands
--ttt_barracks_b
 -ttt_cloverfield_b4
 -ttt_cluedo_b5
 -ttt_dessert_barracks
